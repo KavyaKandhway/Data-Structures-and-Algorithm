@@ -1,6 +1,6 @@
 # Data-Structures-and-Algorithm
 
-Graph
+## Graph
 1. BFS
 2. DFS
 3. Cycle Detection in undirected graph (DFS and BFS)
@@ -15,3 +15,8 @@ Graph
 12. articulation point
 13. bridges in a graph
 14. Kosaraju's Algo(Find strongly connected component in directed graph)
+
+## Binary Tree
+Inorder, preorder and post order iterative and recursive traversals
+
+## Segment tree Fenwik Tree
